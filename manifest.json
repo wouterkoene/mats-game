@@ -1,6 +1,6 @@
 {
-    "name": "Letters en Cijfers",
-    "short_name": "Letters",
+    "name": "Mats Game",
+    "short_name": "Mats Game",
     "description": "Learn letters and numbers game",
     "start_url": "./",
     "display": "fullscreen",
